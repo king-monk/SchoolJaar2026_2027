@@ -1,0 +1,15 @@
+C:\Users\jacob.lybaert\source\repos\autobanden\autobanden\bin\Debug\net10.0\autobanden.exe
+C:\Users\jacob.lybaert\source\repos\autobanden\autobanden\bin\Debug\net10.0\autobanden.deps.json
+C:\Users\jacob.lybaert\source\repos\autobanden\autobanden\bin\Debug\net10.0\autobanden.runtimeconfig.json
+C:\Users\jacob.lybaert\source\repos\autobanden\autobanden\bin\Debug\net10.0\autobanden.dll
+C:\Users\jacob.lybaert\source\repos\autobanden\autobanden\bin\Debug\net10.0\autobanden.pdb
+C:\Users\jacob.lybaert\source\repos\autobanden\autobanden\obj\Debug\net10.0\autobanden.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob.lybaert\source\repos\autobanden\autobanden\obj\Debug\net10.0\autobanden.AssemblyInfoInputs.cache
+C:\Users\jacob.lybaert\source\repos\autobanden\autobanden\obj\Debug\net10.0\autobanden.AssemblyInfo.vb
+C:\Users\jacob.lybaert\source\repos\autobanden\autobanden\obj\Debug\net10.0\autobanden.vbproj.CoreCompileInputs.cache
+C:\Users\jacob.lybaert\source\repos\autobanden\autobanden\obj\Debug\net10.0\autobanden.dll
+C:\Users\jacob.lybaert\source\repos\autobanden\autobanden\obj\Debug\net10.0\refint\autobanden.dll
+C:\Users\jacob.lybaert\source\repos\autobanden\autobanden\obj\Debug\net10.0\autobanden.pdb
+C:\Users\jacob.lybaert\source\repos\autobanden\autobanden\obj\Debug\net10.0\autobanden.genruntimeconfig.cache
+C:\Users\jacob.lybaert\source\repos\autobanden\autobanden\obj\Debug\net10.0\ref\autobanden.dll
+C:\Users\jacob.lybaert\source\repos\autobanden\autobanden\obj\Debug\net10.0\autobanden.vbproj.Up2Date
