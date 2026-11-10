@@ -1,0 +1,4 @@
+C:\Users\ibenboone\source\repos\Iben_boone_OOP_finaal (deze keer echt)\Iben_boone_OOP_finaal (deze keer echt)\obj\Debug\net10.0\Iben_boone_OOP_finaal (deze keer echt).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibenboone\source\repos\Iben_boone_OOP_finaal (deze keer echt)\Iben_boone_OOP_finaal (deze keer echt)\obj\Debug\net10.0\Iben_boone_OOP_finaal (deze keer echt).AssemblyInfoInputs.cache
+C:\Users\ibenboone\source\repos\Iben_boone_OOP_finaal (deze keer echt)\Iben_boone_OOP_finaal (deze keer echt)\obj\Debug\net10.0\Iben_boone_OOP_finaal (deze keer echt).AssemblyInfo.vb
+C:\Users\ibenboone\source\repos\Iben_boone_OOP_finaal (deze keer echt)\Iben_boone_OOP_finaal (deze keer echt)\obj\Debug\net10.0\Iben_boone_OOP_finaal (deze keer echt).vbproj.CoreCompileInputs.cache
